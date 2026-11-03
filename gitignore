@@ -1,0 +1,19 @@
+# Power BI
+*.pbix.bak
+*.tmp
+.pbi/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Editors
+.vscode/
+.idea/
